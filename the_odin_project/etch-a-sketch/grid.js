@@ -4,7 +4,7 @@ $(document).ready(function() {
     standard();
     
     //resets the grid to standard
-    $(".reset").on("click", function() {
+    $(".standard").on("click", function() {
         
        userPref(); 
        grids(numWidth); 
