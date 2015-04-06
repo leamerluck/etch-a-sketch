@@ -1,0 +1,19 @@
+
+header {
+    text-align: center;
+    color: blue;    
+}
+
+#grid {
+    width: 960px;
+    margin: auto;
+	font-size: 0px;
+	overflow: auto;
+	
+}
+
+.squares {
+	
+	display: inline-block;
+	margin: 0px;
+}
